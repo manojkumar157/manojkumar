@@ -1,3 +1,3 @@
 # manojkumar
-This repo is for coding classes
-this repo is the the first class
+This repo is for coding classes.
+Im manoj, studying in Gitam.
